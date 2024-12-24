@@ -1,0 +1,15 @@
+Technologies needed:
+HTML
+CSS
+JavaScript
+Django
+.\Scripts\Activate.ps1
+
+1. Let users register
+2. Allow for login
+3. Look up vocabulary word
+4. Button to turn definition into flashcards
+5. When looking up word, show definition and an example of the word being used in a sentence.
+6. Button to see synonyms and antonyms.
+7. When choosing to create a flashcard, decide where the flashcard will go in terms of folders
+8. Allow for manual flashcard creation
